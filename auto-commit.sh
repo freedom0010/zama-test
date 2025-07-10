@@ -1,5 +1,5 @@
 START_DATE="2025-03-01"
-DAYS=20
+DAYS=60
 FILE="README.md"
 
 for ((i=0; i<$DAYS; i++)); do
